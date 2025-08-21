@@ -40,17 +40,17 @@ This project is a full-stack clone of the popular accommodation booking platform
 |Scrum Master |Facilitates agile processes, removes blockers, organizes meetings|
 
 ## UI Component Patterns:
-#### Navbar:
+1. Navbar:
     - Logo
     - Search bar
     - User navigation
     - Responsive menu
-#### Property Card:
+2.  Property Card:
     - Property image
     - Basic details (price, location, rating)
     - Favorite button
     - Responsive layout
-#### Footer:
+3.  Footer:
     - Site links
     - Company information
     - Social media links
