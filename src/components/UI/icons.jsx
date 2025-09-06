@@ -1,8 +1,8 @@
 function Icons(props) {
     return(
-        <div>
+        <div className="flex flex-row gap-1">
             <img src={props.src} alt="filter" />
-            <p>{props.icons}</p>
+            <p>{props.man}</p>
         </div>
 
     )

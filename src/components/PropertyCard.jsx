@@ -1,5 +1,7 @@
 import Button from "./UI/button";
+import Rooms from "./UI/rooms";
 import Villaproperty from "./Villaproperty";
+import Icons from "./UI/icons";
 
 
 function PropertyCard(props){
@@ -13,7 +15,9 @@ function PropertyCard(props){
         </div>
         <div className="flex">
             <Villaproperty />
-            
+        </div>
+        <div>
+          <Rooms />
         </div>
       </div>
   );

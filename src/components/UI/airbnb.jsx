@@ -2,7 +2,7 @@ function AirbnbLogo() {
   return (
     <div>  
       <div>
-          <img src="/public/Logo/airbnb.png" alt="Airbnb Logo" className="w-32 h-20 rounded-full p-1 gap-20 justify-between flex" />
+          <img src="/public/Logo/alt.png" alt="Airbnb Logo" className="w-25 p-1 gap-50 justify-between flex flex-col" />
       </div>
     </div>  
   );

@@ -1,6 +1,6 @@
 
 
-function Villaproperty(props) {
+function Villaproperty() {
   return (
     <div>
         <div>
