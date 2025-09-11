@@ -37,8 +37,8 @@ function Navbar() {
       </div>
 
 
-      <div className="flex flex-row gap-5 overflow-x-auto p-5">
-        <IconComponents icon={"/public/logo/livingroom.svg"} text={"Rooms"} className="hover:bg-blue-100"/>
+      <div className="flex flex-row gap-5 overflow-x-auto p-5 text-gray-600">
+        <IconComponents icon={"/public/logo/livingroom.svg"} text={"Rooms"} className="hover:bg-blue-500"/>
         <IconComponents icon={"/public/logo/mansion.svg"} text={"Mansions"}/>
         <IconComponents icon={"/public/logo/farm.svg"} text={"Countryside"}/>
         <IconComponents icon={"/public/logo/villa.svg"} text={"Villa"}/>
